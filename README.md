@@ -2,6 +2,8 @@
 
 In case you somehow ended up here: this is Pladd's fork of Noel Berry's Foster engine! Go there instead! I did not make Foster, I'm just using it to learn more about game dev engines and frameworks.
 
+---
+
 <p align="center">
 <img width="480" src="Foster.png" alt="Foster logo">
 </p>
